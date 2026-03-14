@@ -1,0 +1,1631 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "Niveau 1 — Les bases",
+      "categories": ["grammar", "vocabulary"],
+      "questions": [
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She has worked here _____ ten years.",
+          "options": ["since", "for", "during", "ago"],
+          "answer": 1,
+          "explanation": "On utilise 'for' + durée (ten years). 'Since' est suivi d'un point de départ (ex: since 2014)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I _____ to London last summer.",
+          "options": ["have been", "went", "have gone", "was going"],
+          "answer": 1,
+          "explanation": "'Last summer' indique un moment passé précis → on utilise le simple past : 'went'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "They _____ lunch when I arrived.",
+          "options": ["had", "were having", "have had", "are having"],
+          "answer": 1,
+          "explanation": "Action en cours dans le passé interrompue par une autre action → past continuous : 'were having'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He _____ here since 2019.",
+          "options": ["works", "is working", "has worked", "worked"],
+          "answer": 2,
+          "explanation": "'Since 2019' indique une action commencée dans le passé et qui continue → present perfect : 'has worked'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "If it _____ tomorrow, we will cancel the trip.",
+          "options": ["will rain", "rains", "rained", "would rain"],
+          "answer": 1,
+          "explanation": "Dans une phrase conditionnelle de type 1 (if + présent, will + base verbale), on utilise le présent simple après 'if'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She is _____ than her sister.",
+          "options": ["more tall", "taller", "most tall", "the tallest"],
+          "answer": 1,
+          "explanation": "Pour les adjectifs courts (1 syllabe), on ajoute -er pour le comparatif : 'taller'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I have never _____ sushi before.",
+          "options": ["eat", "ate", "eaten", "eating"],
+          "answer": 2,
+          "explanation": "Avec le present perfect (have + past participle), on utilise le participe passé : 'eaten'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She _____ to the gym every Monday.",
+          "options": ["go", "goes", "is going", "has gone"],
+          "answer": 1,
+          "explanation": "'Every Monday' indique une habitude → présent simple. Avec 'she' (3e personne) : 'goes'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "We _____ the project by next Friday.",
+          "options": ["finish", "will finish", "finished", "are finishing"],
+          "answer": 1,
+          "explanation": "'By next Friday' indique un moment futur → futur simple : 'will finish'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "There _____ a lot of people at the meeting yesterday.",
+          "options": ["was", "were", "is", "are"],
+          "answer": 1,
+          "explanation": "'A lot of people' est pluriel et 'yesterday' indique le passé → 'were'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I don't have _____ money left.",
+          "options": ["some", "any", "no", "a"],
+          "answer": 1,
+          "explanation": "Dans une phrase négative (don't have), on utilise 'any'. 'Some' est pour les phrases affirmatives."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She told me _____ she was tired.",
+          "options": ["what", "that", "which", "who"],
+          "answer": 1,
+          "explanation": "'Tell someone that...' est la structure correcte pour rapporter des paroles. 'That' introduit la proposition subordonnée."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "We _____ TV when the power went out.",
+          "options": ["watched", "were watching", "have watched", "watch"],
+          "answer": 1,
+          "explanation": "Action en cours dans le passé interrompue → past continuous : 'were watching'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "My brother _____ three languages fluently.",
+          "options": ["speak", "speaks", "is speaking", "has speaking"],
+          "answer": 1,
+          "explanation": "Capacité permanente → présent simple. 3e personne du singulier : 'speaks'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I _____ my keys. I can't find them anywhere.",
+          "options": ["lost", "have lost", "was losing", "lose"],
+          "answer": 1,
+          "explanation": "Résultat présent d'une action passée (je ne les trouve plus maintenant) → present perfect : 'have lost'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "When I was a child, I _____ play outside every day.",
+          "options": ["use to", "used to", "was used to", "am used to"],
+          "answer": 1,
+          "explanation": "'Used to + base verbale' décrit une habitude passée qui n'existe plus. 'Was used to' = avait l'habitude (différent)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The train _____ at 9:15 every morning.",
+          "options": ["leave", "leaves", "is leaving", "has left"],
+          "answer": 1,
+          "explanation": "Horaire fixe → présent simple. 3e personne : 'leaves'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Look! It _____!",
+          "options": ["rains", "is raining", "has rained", "rained"],
+          "answer": 1,
+          "explanation": "'Look!' indique une situation en cours en ce moment → present continuous : 'is raining'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She _____ to Paris twice this year.",
+          "options": ["went", "has been", "goes", "is going"],
+          "answer": 1,
+          "explanation": "'This year' = période non terminée → present perfect : 'has been'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I _____ dinner before she arrived.",
+          "options": ["cooked", "had cooked", "have cooked", "was cooking"],
+          "answer": 1,
+          "explanation": "Action terminée avant une autre action passée → past perfect : 'had cooked'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "This is the _____ film I have ever seen.",
+          "options": ["better", "good", "best", "most good"],
+          "answer": 2,
+          "explanation": "'The best + ever' → superlatif. 'Good' → 'better' (comparatif) → 'best' (superlatif). 'Most good' n'existe pas."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "_____ you like some coffee?",
+          "options": ["Do", "Would", "Are", "Have"],
+          "answer": 1,
+          "explanation": "'Would you like...?' est la forme polie pour proposer quelque chose. 'Do you like...?' demande si on aime en général."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Can you give me some _____ about the new project?",
+          "options": ["informations", "information", "an information", "the informations"],
+          "answer": 1,
+          "explanation": "'Information' est un nom indénombrable en anglais. Il ne prend jamais de 's' et ne peut pas être précédé de 'a/an'."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I need to _____ an appointment with the doctor.",
+          "options": ["do", "make", "take", "have"],
+          "answer": 1,
+          "explanation": "On dit 'make an appointment' (prendre rendez-vous). 'Do' et 'make' sont souvent confondus par les francophones."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The _____ from Paris to London takes about two hours by train.",
+          "options": ["travel", "journey", "voyage", "road"],
+          "answer": 1,
+          "explanation": "'Journey' désigne un trajet d'un point A à un point B. 'Travel' est plus général (le fait de voyager). 'Voyage' est rare en anglais moderne."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I'm looking _____ a new job.",
+          "options": ["at", "for", "to", "after"],
+          "answer": 1,
+          "explanation": "'Look for' = chercher. 'Look at' = regarder. 'Look after' = s'occuper de."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She speaks English very _____.",
+          "options": ["good", "well", "nice", "fine"],
+          "answer": 1,
+          "explanation": "Après un verbe, on utilise un adverbe (well), pas un adjectif (good). 'She speaks well' mais 'Her English is good'."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I _____ a mistake in my email.",
+          "options": ["did", "made", "took", "had"],
+          "answer": 1,
+          "explanation": "On dit 'make a mistake' (faire une erreur), pas 'do a mistake'. C'est une collocation fixe en anglais."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Could you _____ me the salt, please?",
+          "options": ["give", "pass", "take", "bring"],
+          "answer": 1,
+          "explanation": "'Pass me the salt' est l'expression courante à table. 'Give' est aussi acceptable mais 'pass' est plus naturel."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "He is very _____ in music.",
+          "options": ["interesting", "interested", "interest", "interests"],
+          "answer": 1,
+          "explanation": "'Interested in' = s'intéresser à (la personne ressent l'intérêt). 'Interesting' = intéressant (la chose provoque l'intérêt)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I'm sorry, I didn't _____ what you said. Could you repeat?",
+          "options": ["listen", "hear", "understand", "attend"],
+          "answer": 1,
+          "explanation": "'Hear' = entendre (perception). 'Listen' = écouter (action volontaire). 'Attend' est un faux ami (= assister à)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to _____ the homework before Friday.",
+          "options": ["make", "do", "take", "have"],
+          "answer": 1,
+          "explanation": "'Do homework' (pas 'make'). 'Do' s'utilise avec les tâches : do the dishes, do exercise, do homework."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She is very _____ of spiders.",
+          "options": ["scary", "scared", "scare", "scaring"],
+          "answer": 1,
+          "explanation": "'Scared of' = avoir peur de (la personne ressent la peur). 'Scary' = effrayant (la chose fait peur)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I need some _____ about the train schedule.",
+          "options": ["advices", "advice", "an advice", "advise"],
+          "answer": 1,
+          "explanation": "'Advice' est indénombrable (comme 'information'). 'Advise' est le verbe. On dit 'some advice' ou 'a piece of advice'."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The weather is really _____ today. Let's stay inside.",
+          "options": ["bad", "badly", "worse", "worst"],
+          "answer": 0,
+          "explanation": "Après 'is' (verbe d'état), on utilise un adjectif : 'bad'. 'Badly' est un adverbe (he plays badly)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Can I _____ your phone? Mine is dead.",
+          "options": ["lend", "borrow", "give", "rent"],
+          "answer": 1,
+          "explanation": "'Borrow' = emprunter (prendre). 'Lend' = prêter (donner temporairement). Confusion fréquente pour les francophones."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We had a great _____ on holiday in Spain.",
+          "options": ["time", "moment", "hour", "period"],
+          "answer": 0,
+          "explanation": "'Have a great time' = passer un bon moment. 'Moment' ne s'utilise pas de cette façon en anglais."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The children are _____ in the garden.",
+          "options": ["playing", "doing", "making", "having"],
+          "answer": 0,
+          "explanation": "'Play' = jouer. Les enfants jouent dans le jardin. En français on dit parfois 'faire' mais en anglais c'est 'play'."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I usually _____ to work by bus.",
+          "options": ["come", "go", "take", "bring"],
+          "answer": 1,
+          "explanation": "'Go to work' = aller au travail. 'Come' implique un mouvement vers l'interlocuteur."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "He wants to _____ a photo of the sunset.",
+          "options": ["make", "do", "take", "have"],
+          "answer": 2,
+          "explanation": "'Take a photo' = prendre une photo. Collocation fixe en anglais."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Niveau 2 — Prépositions & connecteurs",
+      "categories": ["grammar", "vocabulary"],
+      "questions": [
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "_____ the rain, we decided to go out.",
+          "options": ["Although", "Despite", "However", "Because"],
+          "answer": 1,
+          "explanation": "'Despite' + nom/gérondif (the rain). 'Although' serait suivi d'une proposition (although it was raining)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She is good _____ maths.",
+          "options": ["in", "at", "on", "for"],
+          "answer": 1,
+          "explanation": "'Good at' + matière/activité est la préposition correcte. C'est une collocation fixe."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He depends _____ his parents for money.",
+          "options": ["of", "on", "at", "from"],
+          "answer": 1,
+          "explanation": "'Depend on' = dépendre de. La préposition 'on' est obligatoire avec ce verbe."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The meeting was cancelled. _____, we had time to prepare.",
+          "options": ["But", "However", "Despite", "Although"],
+          "answer": 1,
+          "explanation": "'However' s'utilise en début de phrase, suivi d'une virgule, pour introduire un contraste. 'But' ne commence généralement pas une phrase formelle."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I'll wait _____ you finish.",
+          "options": ["by", "for", "until", "during"],
+          "answer": 2,
+          "explanation": "'Until' + proposition (you finish) indique 'jusqu'à ce que'. 'By' indique une date limite. 'During' + nom."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She insisted _____ paying the bill.",
+          "options": ["to", "on", "for", "in"],
+          "answer": 1,
+          "explanation": "'Insist on + -ing' est la structure correcte. C'est une préposition fixée au verbe 'insist'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I'm not used _____ waking up early.",
+          "options": ["at", "to", "for", "of"],
+          "answer": 1,
+          "explanation": "'Be used to + -ing' = avoir l'habitude de. Attention : 'used to + base verbale' = avoir l'habitude de (dans le passé)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He _____ me that he would be late.",
+          "options": ["said", "told", "talked", "spoke"],
+          "answer": 1,
+          "explanation": "'Tell someone something' (avec complément d'objet indirect). 'Say something (to someone)' (sans COI direct)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "_____ I was tired, I finished the report.",
+          "options": ["Despite", "Although", "However", "In spite"],
+          "answer": 1,
+          "explanation": "'Although' + sujet + verbe (proposition complète). 'Despite' serait suivi d'un nom : 'Despite my tiredness'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The report must be ready _____ Friday.",
+          "options": ["until", "by", "for", "since"],
+          "answer": 1,
+          "explanation": "'By + date' = au plus tard à cette date (deadline). 'Until' = pendant toute la durée jusqu'à."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She apologized _____ being late.",
+          "options": ["about", "for", "of", "to"],
+          "answer": 1,
+          "explanation": "'Apologize for + -ing' = s'excuser de. La préposition 'for' est obligatoire avec 'apologize'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I'm really looking forward _____ the concert.",
+          "options": ["for", "at", "to", "about"],
+          "answer": 2,
+          "explanation": "'Look forward to' + nom ou gérondif. Attention : ici 'to' est une préposition, pas la marque de l'infinitif."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He succeeded _____ passing the exam.",
+          "options": ["to", "at", "in", "on"],
+          "answer": 2,
+          "explanation": "'Succeed in + -ing' = réussir à. Préposition fixe en anglais."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She suffers _____ headaches.",
+          "options": ["of", "from", "with", "by"],
+          "answer": 1,
+          "explanation": "'Suffer from' = souffrir de. Préposition obligatoire avec ce verbe."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I'm thinking _____ changing jobs.",
+          "options": ["to", "of", "about", "for"],
+          "answer": 2,
+          "explanation": "'Think about + -ing' = envisager de. 'Think of' est aussi possible mais 'about' est plus courant pour les plans."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She said she was tired. _____, she continued working.",
+          "options": ["Despite", "Nevertheless", "Although", "Despite of"],
+          "answer": 1,
+          "explanation": "'Nevertheless' = néanmoins. Comme 'However', il s'utilise en début de phrase pour marquer le contraste. 'Despite of' n'existe pas."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I haven't seen her _____ Monday.",
+          "options": ["for", "since", "from", "during"],
+          "answer": 1,
+          "explanation": "'Since' + point de départ (Monday). 'For' + durée. 'Since Monday' = depuis lundi."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He's interested _____ learning Spanish.",
+          "options": ["to", "in", "at", "about"],
+          "answer": 1,
+          "explanation": "'Interested in + -ing' = intéressé par. Préposition fixe."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "We arrived _____ the airport two hours early.",
+          "options": ["in", "at", "to", "on"],
+          "answer": 1,
+          "explanation": "'Arrive at' + lieu précis (airport, station). 'Arrive in' + ville/pays. On ne dit pas 'arrive to'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "_____ having a map, we got lost.",
+          "options": ["Although", "Despite", "However", "Even"],
+          "answer": 1,
+          "explanation": "'Despite + -ing / nom' = malgré. 'Although' serait suivi de 'we had a map'."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to send the _____ to the client before the end of the month.",
+          "options": ["bill", "invoice", "receipt", "ticket"],
+          "answer": 1,
+          "explanation": "'Invoice' = facture (contexte business/B2B). 'Bill' = addition/facture (restaurant, services). 'Receipt' = reçu."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The _____ for this project is next Monday.",
+          "options": ["timeline", "deadline", "lifeline", "dateline"],
+          "answer": 1,
+          "explanation": "'Deadline' = date limite. Mot très courant en anglais business."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Our main _____ delivers raw materials from China.",
+          "options": ["customer", "supplier", "employee", "manager"],
+          "answer": 1,
+          "explanation": "'Supplier' = fournisseur. 'Customer' = client. Ne pas confondre les deux."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to _____ a meeting to discuss the budget.",
+          "options": ["do", "set up", "make", "put"],
+          "answer": 1,
+          "explanation": "'Set up a meeting' = organiser une réunion. C'est un phrasal verb très courant en contexte professionnel."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Please find _____ the document you requested.",
+          "options": ["joined", "attached", "linked", "connected"],
+          "answer": 1,
+          "explanation": "'Please find attached' = veuillez trouver ci-joint. Expression standard dans les emails professionnels."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I'd like to _____ a complaint about the service.",
+          "options": ["do", "make", "put", "set"],
+          "answer": 1,
+          "explanation": "'Make a complaint' = porter une réclamation. Collocation fixe avec 'make'."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The company's _____ has increased by 15% this year.",
+          "options": ["income", "turnover", "salary", "wage"],
+          "answer": 1,
+          "explanation": "'Turnover' = chiffre d'affaires. 'Income' = revenu (personnel). 'Salary' = salaire (mensuel). 'Wage' = salaire (horaire)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Could you _____ me back when you have a moment?",
+          "options": ["phone", "call", "ring", "contact"],
+          "answer": 1,
+          "explanation": "'Call someone back' = rappeler quelqu'un. Phrasal verb très courant au téléphone."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to _____ with the new regulations.",
+          "options": ["comply", "apply", "supply", "imply"],
+          "answer": 0,
+          "explanation": "'Comply with' = se conformer à. 'Apply' = postuler/appliquer. 'Supply' = fournir. 'Imply' = impliquer/sous-entendre."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The manager asked us to _____ in the feedback form.",
+          "options": ["fill", "fill in", "fill up", "fill out"],
+          "answer": 1,
+          "explanation": "'Fill in a form' (UK) ou 'fill out a form' (US) = remplir un formulaire. 'Fill up' = remplir un réservoir."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I need to _____ a decision by tomorrow.",
+          "options": ["do", "make", "take", "get"],
+          "answer": 1,
+          "explanation": "'Make a decision' = prendre une décision. Collocation fixe avec 'make'."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She works in the sales _____.",
+          "options": ["service", "department", "office", "section"],
+          "answer": 1,
+          "explanation": "'Department' = service/département dans une entreprise. 'Service' est un faux ami fréquent."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We signed the _____ with the new client yesterday.",
+          "options": ["contract", "compromise", "deal", "treatment"],
+          "answer": 0,
+          "explanation": "'Contract' = contrat. 'Compromise' = compromis (faux ami). 'Deal' = accord (plus informel)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The _____ of the meeting is to discuss Q3 results.",
+          "options": ["purpose", "proposal", "reason", "cause"],
+          "answer": 0,
+          "explanation": "'Purpose' = objectif, but. 'The purpose of the meeting' = l'objet de la réunion. Expression business standard."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "He gave a very interesting _____ at the conference.",
+          "options": ["conference", "speech", "presentation", "reunion"],
+          "answer": 2,
+          "explanation": "'Presentation' = présentation (exposé). 'Reunion' est un faux ami (= retrouvailles). 'Conference' = conférence (l'événement entier)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I'll send you the report as an email _____.",
+          "options": ["attachment", "piece", "annex", "joint"],
+          "answer": 0,
+          "explanation": "'Attachment' = pièce jointe (email). 'Joint' et 'annex' ne s'utilisent pas dans ce contexte."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to _____ a profit this quarter.",
+          "options": ["do", "make", "win", "earn"],
+          "answer": 1,
+          "explanation": "'Make a profit' = réaliser un bénéfice. Collocation fixe en business."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The company has 500 _____ worldwide.",
+          "options": ["workers", "employees", "employers", "staffs"],
+          "answer": 1,
+          "explanation": "'Employees' = employés. 'Employers' = employeurs (ceux qui embauchent). 'Staff' est indénombrable."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Could you _____ me the latest figures?",
+          "options": ["say", "tell", "talk", "speak"],
+          "answer": 1,
+          "explanation": "'Tell me' = dis-moi / donne-moi (des informations). 'Say' n'est pas suivi directement d'un COI."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I'm writing to _____ about your recent order.",
+          "options": ["demand", "inquire", "ask", "question"],
+          "answer": 1,
+          "explanation": "'Inquire about' = se renseigner sur. Registre formel, très utilisé dans les emails business. 'Demand' = exiger."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Niveau 3 — Modaux, passif & questions indirectes",
+      "categories": ["grammar", "vocabulary"],
+      "questions": [
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "You _____ have told me earlier!",
+          "options": ["must", "should", "could", "would"],
+          "answer": 1,
+          "explanation": "'Should have + past participle' exprime un reproche sur le passé (tu aurais dû me le dire)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She _____ have left already. Her car is not here.",
+          "options": ["can", "must", "should", "would"],
+          "answer": 1,
+          "explanation": "'Must have + past participle' exprime une déduction forte sur le passé (elle a dû partir)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The report _____ by the end of the day.",
+          "options": ["must finish", "must be finished", "must be finishing", "must have finished"],
+          "answer": 1,
+          "explanation": "Voix passive avec modal : 'must be + past participle'. Le rapport est l'objet de l'action (il est terminé par quelqu'un)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Could you tell me where the station _____?",
+          "options": ["is", "is it", "it is", "does it"],
+          "answer": 0,
+          "explanation": "Question indirecte : l'ordre est sujet + verbe (where the station is), pas l'ordre inversé d'une question directe."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Do you know what time the meeting _____?",
+          "options": ["starts", "does start", "start", "is start"],
+          "answer": 0,
+          "explanation": "Question indirecte → ordre affirmatif : 'what time the meeting starts' (pas d'inversion, pas d'auxiliaire 'does')."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The new office _____ next month.",
+          "options": ["will open", "will be opened", "will be opening", "is opening"],
+          "answer": 1,
+          "explanation": "Voix passive au futur : 'will be + past participle'. Le bureau est ouvert par quelqu'un (l'entreprise)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He _____ be at work. It's Sunday.",
+          "options": ["can't", "mustn't", "shouldn't", "won't"],
+          "answer": 0,
+          "explanation": "'Can't' exprime l'impossibilité logique (il ne peut pas être au travail, c'est dimanche). 'Mustn't' = interdiction."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I wonder if she _____ come to the party.",
+          "options": ["will", "does", "is", "shall"],
+          "answer": 0,
+          "explanation": "Question indirecte au futur : 'I wonder if she will come'. Pas d'inversion dans la question indirecte."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "English _____ in many countries around the world.",
+          "options": ["speaks", "is speaking", "is spoken", "has spoken"],
+          "answer": 2,
+          "explanation": "Voix passive au présent : 'is + past participle'. L'anglais est parlé (par les gens) → passif."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "You _____ smoke in the office. It's forbidden.",
+          "options": ["can't", "mustn't", "shouldn't", "don't have to"],
+          "answer": 1,
+          "explanation": "'Mustn't' = interdiction. 'Don't have to' = pas obligatoire (mais permis). 'Shouldn't' = déconseillé."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The window _____ by the children yesterday.",
+          "options": ["broke", "was broken", "has broken", "is broken"],
+          "answer": 1,
+          "explanation": "Passif au passé : 'was + past participle'. La fenêtre a été cassée par les enfants."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "You _____ wear a suit. It's a casual event.",
+          "options": ["mustn't", "don't have to", "can't", "shouldn't"],
+          "answer": 1,
+          "explanation": "'Don't have to' = pas obligatoire (tu n'es pas obligé). 'Mustn't' = c'est interdit. Ici c'est juste non obligatoire."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Could you tell me how much this _____?",
+          "options": ["costs", "does cost", "cost", "is costing"],
+          "answer": 0,
+          "explanation": "Question indirecte → pas d'inversion, pas d'auxiliaire : 'how much this costs'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She _____ have been very tired. She slept for twelve hours.",
+          "options": ["can", "must", "should", "would"],
+          "answer": 1,
+          "explanation": "'Must have been' = elle devait être (déduction logique forte basée sur une preuve : 12 heures de sommeil)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The house _____ in 1920.",
+          "options": ["built", "was built", "has been built", "is built"],
+          "answer": 1,
+          "explanation": "Passif au passé avec date précise (1920) → 'was built'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He asked me where I _____.",
+          "options": ["live", "lived", "do live", "am living"],
+          "answer": 1,
+          "explanation": "Discours indirect : le verbe recule d'un temps. 'Where do you live?' → 'where I lived' (concordance des temps)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "You _____ to see a doctor. That cough sounds bad.",
+          "options": ["should", "ought", "must", "might"],
+          "answer": 1,
+          "explanation": "'Ought to' = devrait (conseil). Synonyme de 'should' mais plus formel. 'Ought' est toujours suivi de 'to'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I'd like to know whether the shop _____ on Sundays.",
+          "options": ["opens", "is open", "does open", "open"],
+          "answer": 1,
+          "explanation": "Question indirecte. 'Is open' décrit un état. 'Whether the shop is open' = si le magasin est ouvert."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "This cake _____ by my grandmother.",
+          "options": ["made", "was made", "has made", "is making"],
+          "answer": 1,
+          "explanation": "Voix passive : 'was made by' = a été fait par. Le complément d'agent est introduit par 'by'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She _____ be French. She has a Parisian accent.",
+          "options": ["can't", "might", "should", "mustn't"],
+          "answer": 1,
+          "explanation": "'Might' exprime la possibilité : elle pourrait être française (on n'est pas sûr, mais c'est possible)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to _____ the issue before it gets worse.",
+          "options": ["address", "assist", "attend", "access"],
+          "answer": 0,
+          "explanation": "'Address an issue' = traiter/aborder un problème. Faux ami : 'assist' = aider, 'attend' = assister à."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The project is _____ schedule. We'll finish early.",
+          "options": ["before", "ahead of", "in front of", "prior"],
+          "answer": 1,
+          "explanation": "'Ahead of schedule' = en avance sur le planning. Expression business très courante."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Please _____ me if you have any questions.",
+          "options": ["prevent", "provide", "let know", "let me know"],
+          "answer": 2,
+          "explanation": "La phrase complète est 'Please let me know' mais ici le 'me' est déjà dans la phrase. 'Let know' = informer/prévenir."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I'd like to _____ a suggestion regarding the new policy.",
+          "options": ["do", "make", "give", "take"],
+          "answer": 1,
+          "explanation": "'Make a suggestion' = faire une suggestion. Collocation fixe avec 'make'."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to _____ costs if we want to remain profitable.",
+          "options": ["cut", "decrease", "lower", "reduce"],
+          "answer": 0,
+          "explanation": "'Cut costs' est la collocation la plus naturelle en business. 'Reduce costs' est aussi acceptable."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She was _____ for the position of marketing director.",
+          "options": ["hired", "fired", "retired", "resigned"],
+          "answer": 0,
+          "explanation": "'Hired' = embauchée. 'Fired' = licenciée. 'Retired' = retraitée. 'Resigned' = a démissionné."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The company decided to _____ its operations to Asia.",
+          "options": ["expand", "extend", "enlarge", "increase"],
+          "answer": 0,
+          "explanation": "'Expand operations' = développer/étendre ses activités. Collocation courante en business."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We should _____ advantage of this opportunity.",
+          "options": ["make", "do", "take", "get"],
+          "answer": 2,
+          "explanation": "'Take advantage of' = profiter de, tirer parti de. Expression figée."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The sales team managed to _____ their targets this quarter.",
+          "options": ["reach", "meet", "arrive", "achieve"],
+          "answer": 1,
+          "explanation": "'Meet targets' = atteindre les objectifs. 'Reach a goal' et 'achieve a goal' sont aussi corrects mais 'meet targets' est la collocation standard."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I'm _____ forward to hearing from you.",
+          "options": ["seeing", "going", "looking", "getting"],
+          "answer": 2,
+          "explanation": "'Look forward to + -ing' = avoir hâte de / attendre avec impatience. Expression très courante dans les emails."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to _____ an agreement before the end of the week.",
+          "options": ["make", "do", "reach", "take"],
+          "answer": 2,
+          "explanation": "'Reach an agreement' = parvenir à un accord. Collocation standard en négociation."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The project was completed on time and within _____.",
+          "options": ["cost", "budget", "price", "expense"],
+          "answer": 1,
+          "explanation": "'Within budget' = dans le budget. Expression standard en gestion de projet."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I need to _____ a report on last month's sales.",
+          "options": ["make", "do", "write", "create"],
+          "answer": 2,
+          "explanation": "'Write a report' = rédiger un rapport. Collocation la plus naturelle."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She is in _____ of the marketing department.",
+          "options": ["control", "charge", "head", "lead"],
+          "answer": 1,
+          "explanation": "'In charge of' = responsable de. Expression très courante en contexte professionnel."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We had a productive _____ with the new client.",
+          "options": ["reunion", "meeting", "appointment", "interview"],
+          "answer": 1,
+          "explanation": "'Meeting' = réunion professionnelle. 'Reunion' = retrouvailles (faux ami). 'Appointment' = rendez-vous (médecin, etc.)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The company provides excellent _____ for its employees.",
+          "options": ["advantages", "benefits", "profits", "gains"],
+          "answer": 1,
+          "explanation": "'Benefits' = avantages sociaux (assurance, congés, etc.). 'Advantages' est plus général. 'Profits' = bénéfices financiers."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Could you give me an _____ of how much this will cost?",
+          "options": ["estimation", "estimate", "approximation", "evaluation"],
+          "answer": 1,
+          "explanation": "'Estimate' = estimation, devis. 'Give an estimate' est la collocation standard en business."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The _____ shows that most customers prefer online shopping.",
+          "options": ["research", "search", "investigation", "survey"],
+          "answer": 3,
+          "explanation": "'Survey' = enquête, sondage. 'Research' = recherche (plus académique). 'Search' = recherche (action de chercher)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Please _____ free to contact me if you need anything.",
+          "options": ["be", "feel", "get", "become"],
+          "answer": 1,
+          "explanation": "'Feel free to' = n'hésitez pas à. Expression de politesse très courante dans les emails professionnels."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Niveau 4 — Expressions figées & phrasal verbs",
+      "categories": ["grammar", "vocabulary"],
+      "questions": [
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I wish I _____ more time to prepare for the presentation.",
+          "options": ["have", "had", "would have", "have had"],
+          "answer": 1,
+          "explanation": "'I wish + past simple' exprime un regret sur le présent. 'I wish I had' = j'aimerais avoir (mais je n'ai pas)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "By the time we arrive, they _____ dinner.",
+          "options": ["will finish", "will have finished", "finish", "are finishing"],
+          "answer": 1,
+          "explanation": "'By the time + present, will have + past participle' = future perfect. L'action sera terminée avant notre arrivée."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She avoids _____ in public.",
+          "options": ["to speak", "speaking", "speak", "spoken"],
+          "answer": 1,
+          "explanation": "'Avoid + -ing'. Certains verbes sont toujours suivis du gérondif : avoid, enjoy, mind, suggest, finish, etc."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He promised _____ me with the project.",
+          "options": ["helping", "to help", "help", "helped"],
+          "answer": 1,
+          "explanation": "'Promise + to + infinitif'. Certains verbes sont suivis de l'infinitif : promise, decide, want, hope, agree, etc."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "If I _____ you, I would accept the offer.",
+          "options": ["am", "was", "were", "would be"],
+          "answer": 2,
+          "explanation": "Conditionnel 2 (irréel du présent) : 'If I were you' (subjonctif). 'Were' est utilisé pour toutes les personnes dans cette structure."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Not only _____ late, but he also forgot the documents.",
+          "options": ["he was", "was he", "he is", "is he"],
+          "answer": 1,
+          "explanation": "'Not only' en début de phrase entraîne une inversion sujet-verbe : 'Not only was he late'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She suggested _____ the meeting to next week.",
+          "options": ["to postpone", "postponing", "postpone", "to postponing"],
+          "answer": 1,
+          "explanation": "'Suggest + -ing' (pas d'infinitif). On peut aussi dire 'suggest that we postpone'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I'd rather _____ at home tonight.",
+          "options": ["to stay", "staying", "stay", "stayed"],
+          "answer": 2,
+          "explanation": "'Would rather + base verbale' (infinitif sans 'to'). 'I'd rather stay' = je préférerais rester."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The more you practise, the _____ you'll get.",
+          "options": ["good", "better", "best", "well"],
+          "answer": 1,
+          "explanation": "'The more... the better' = plus on..., mieux c'est. Structure comparative parallèle."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She denied _____ the email.",
+          "options": ["to send", "sending", "send", "sent"],
+          "answer": 1,
+          "explanation": "'Deny + -ing'. Comme 'avoid', 'deny' est toujours suivi du gérondif."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I wish I _____ studied harder at university.",
+          "options": ["have", "had", "would have", "has"],
+          "answer": 1,
+          "explanation": "'I wish I had + past participle' exprime un regret sur le passé. 'I wish I had studied' = j'aurais aimé avoir étudié."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She doesn't mind _____ overtime.",
+          "options": ["to work", "working", "work", "worked"],
+          "answer": 1,
+          "explanation": "'Mind + -ing'. 'Don't mind working' = ça ne me dérange pas de travailler."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He decided _____ the job offer.",
+          "options": ["accepting", "to accept", "accept", "accepted"],
+          "answer": 1,
+          "explanation": "'Decide + to + infinitif'. 'Decide' fait partie des verbes suivis de l'infinitif."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "If I had left earlier, I _____ the train.",
+          "options": ["would catch", "would have caught", "will catch", "caught"],
+          "answer": 1,
+          "explanation": "Conditionnel 3 (irréel du passé) : 'If I had + PP, I would have + PP'. Exprime un regret."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I can't help _____ when I see that video.",
+          "options": ["to laugh", "laughing", "laugh", "laughed"],
+          "answer": 1,
+          "explanation": "'Can't help + -ing' = ne pas pouvoir s'empêcher de. Expression figée suivie du gérondif."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She keeps _____ the same mistakes.",
+          "options": ["to make", "making", "make", "made"],
+          "answer": 1,
+          "explanation": "'Keep + -ing' = continuer à. 'She keeps making' = elle continue de faire."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I expect him _____ on time.",
+          "options": ["arriving", "to arrive", "arrive", "arrived"],
+          "answer": 1,
+          "explanation": "'Expect someone to + infinitif'. Structure : verbe + COD + to + infinitif."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "It's no use _____ about it now.",
+          "options": ["to worry", "worrying", "worry", "worried"],
+          "answer": 1,
+          "explanation": "'It's no use + -ing' = ça ne sert à rien de. Expression figée suivie du gérondif."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She went on _____ even after everyone had left.",
+          "options": ["to talk", "talking", "talk", "talked"],
+          "answer": 1,
+          "explanation": "'Go on + -ing' = continuer à faire la même chose. 'Go on + to' = passer à l'étape suivante."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I regret _____ you that the position has been filled.",
+          "options": ["telling", "to tell", "tell", "told"],
+          "answer": 1,
+          "explanation": "'Regret + to + infinitif' = regretter de devoir (annonce formelle). 'Regret + -ing' = regretter d'avoir fait."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The negotiations fell _____ at the last minute.",
+          "options": ["down", "through", "off", "out"],
+          "answer": 1,
+          "explanation": "'Fall through' = échouer, tomber à l'eau (pour un accord, un projet). 'Fall down' = tomber physiquement."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to come _____ with a solution quickly.",
+          "options": ["out", "up", "in", "on"],
+          "answer": 1,
+          "explanation": "'Come up with' = trouver, proposer (une idée, une solution). Phrasal verb très courant."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I'll look _____ the matter and get back to you.",
+          "options": ["at", "into", "for", "up"],
+          "answer": 1,
+          "explanation": "'Look into' = examiner, enquêter sur. 'Look at' = regarder. 'Look for' = chercher."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "They had to put _____ the meeting because of the storm.",
+          "options": ["off", "on", "up", "down"],
+          "answer": 0,
+          "explanation": "'Put off' = reporter, remettre à plus tard. 'Put on' = mettre (un vêtement). 'Put up with' = supporter."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "It took me a while to figure _____ how the new system works.",
+          "options": ["up", "in", "out", "on"],
+          "answer": 2,
+          "explanation": "'Figure out' = comprendre, trouver la solution. Phrasal verb très courant."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The CEO stepped _____ after the scandal.",
+          "options": ["up", "down", "in", "out"],
+          "answer": 1,
+          "explanation": "'Step down' = démissionner (d'un poste de responsabilité). 'Step up' = prendre les choses en main."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We ran _____ of paper, so I need to order more.",
+          "options": ["off", "out", "away", "down"],
+          "answer": 1,
+          "explanation": "'Run out of' = être à court de, manquer de. 'We ran out of paper' = on n'a plus de papier."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She turned _____ the job offer because the salary was too low.",
+          "options": ["off", "out", "down", "up"],
+          "answer": 2,
+          "explanation": "'Turn down' = refuser (une offre, une proposition). 'Turn off' = éteindre."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to carry _____ the plan despite the difficulties.",
+          "options": ["on", "out", "off", "up"],
+          "answer": 1,
+          "explanation": "'Carry out' = exécuter, réaliser (un plan, une tâche). 'Carry on' = continuer."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I need to catch _____ on my emails after the holiday.",
+          "options": ["on", "up", "in", "out"],
+          "answer": 1,
+          "explanation": "'Catch up on' = rattraper son retard sur. 'Catch up with someone' = retrouver quelqu'un / rattraper quelqu'un."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The meeting was called _____ due to the director's illness.",
+          "options": ["out", "off", "up", "in"],
+          "answer": 1,
+          "explanation": "'Call off' = annuler. 'The meeting was called off' = la réunion a été annulée."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "He brought _____ an interesting point during the discussion.",
+          "options": ["out", "up", "in", "on"],
+          "answer": 1,
+          "explanation": "'Bring up' = soulever (un sujet, un point). Phrasal verb courant en contexte professionnel."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to sort _____ this problem immediately.",
+          "options": ["up", "out", "in", "off"],
+          "answer": 1,
+          "explanation": "'Sort out' = résoudre, régler (un problème). Très courant en anglais britannique."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She gets _____ well with all her colleagues.",
+          "options": ["up", "on", "in", "by"],
+          "answer": 1,
+          "explanation": "'Get on well with' (UK) / 'Get along with' (US) = bien s'entendre avec."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "I can't put _____ with his behavior anymore.",
+          "options": ["on", "off", "up", "out"],
+          "answer": 2,
+          "explanation": "'Put up with' = supporter, tolérer. 'I can't put up with it' = je ne le supporte plus."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The new law comes _____ effect next month.",
+          "options": ["in", "into", "to", "on"],
+          "answer": 1,
+          "explanation": "'Come into effect' = entrer en vigueur. Expression standard en contexte juridique/business."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "Let's go _____ the main points of the meeting.",
+          "options": ["through", "over", "about", "into"],
+          "answer": 1,
+          "explanation": "'Go over' = passer en revue, revoir. 'Let's go over the main points' = passons en revue les points principaux."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The factory had to lay _____ 200 workers.",
+          "options": ["out", "off", "down", "up"],
+          "answer": 1,
+          "explanation": "'Lay off' = licencier (pour raisons économiques). Différent de 'fire' (licencier pour faute)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She takes _____ her mother. They look very similar.",
+          "options": ["on", "after", "up", "over"],
+          "answer": 1,
+          "explanation": "'Take after' = ressembler à (un parent). 'Take on' = embaucher/accepter. 'Take over' = reprendre (une entreprise)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need to cut _____ on unnecessary expenses.",
+          "options": ["up", "off", "down", "out"],
+          "answer": 2,
+          "explanation": "'Cut down on' = réduire (la consommation de quelque chose). 'Cut off' = couper (l'électricité, la communication)."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Niveau 5 — Structures complexes & nuances",
+      "categories": ["grammar", "vocabulary"],
+      "questions": [
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Had I known about the problem, I _____ acted sooner.",
+          "options": ["will have", "would have", "should have", "could"],
+          "answer": 1,
+          "explanation": "Conditionnel 3 avec inversion : 'Had I known... I would have acted'. Équivaut à 'If I had known'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "It's high time we _____ a decision.",
+          "options": ["make", "made", "have made", "will make"],
+          "answer": 1,
+          "explanation": "'It's high time + past simple' exprime qu'il est plus que temps de faire quelque chose. Le passé a ici valeur de subjonctif."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Hardly _____ the presentation when the fire alarm went off.",
+          "options": ["he had started", "had he started", "he started", "did he start"],
+          "answer": 1,
+          "explanation": "'Hardly + inversion (had he started) + when...' = à peine avait-il commencé que... Structure littéraire avec inversion obligatoire."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The project, _____ was started last year, is finally complete.",
+          "options": ["that", "which", "what", "who"],
+          "answer": 1,
+          "explanation": "Proposition relative non restrictive (entre virgules) → on utilise 'which', jamais 'that'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She acts as if she _____ the boss.",
+          "options": ["is", "was", "were", "would be"],
+          "answer": 2,
+          "explanation": "'As if + past subjunctive (were)' pour exprimer une situation irréelle. Même au singulier, on préfère 'were' dans un style formel."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "No sooner had we left _____ it started raining.",
+          "options": ["when", "than", "that", "before"],
+          "answer": 1,
+          "explanation": "'No sooner... than' = à peine... que. C'est une paire fixe. Ne pas confondre avec 'hardly... when'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "I would rather you _____ this to anyone.",
+          "options": ["don't mention", "didn't mention", "not mention", "won't mention"],
+          "answer": 1,
+          "explanation": "'Would rather + someone + past simple' pour exprimer une préférence concernant l'action d'une autre personne."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "_____ the circumstances, I think we did well.",
+          "options": ["Given", "Giving", "Gave", "To give"],
+          "answer": 0,
+          "explanation": "'Given the circumstances' = étant donné les circonstances. 'Given' fonctionne ici comme une préposition."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The data _____ that sales have dropped significantly.",
+          "options": ["suggest", "suggests", "is suggesting", "are suggesting"],
+          "answer": 1,
+          "explanation": "'Data' peut être singulier ou pluriel en anglais moderne. Avec 'suggests' (singulier), c'est l'usage le plus courant en business."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Were it not _____ your help, we would have failed.",
+          "options": ["of", "for", "by", "with"],
+          "answer": 1,
+          "explanation": "'Were it not for' = sans (s'il n'y avait pas eu). Inversion formelle équivalente à 'If it were not for'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Little _____ he know what was about to happen.",
+          "options": ["do", "did", "does", "has"],
+          "answer": 1,
+          "explanation": "'Little did he know' = il ne savait pas du tout. Inversion avec 'little' en début de phrase (registre littéraire)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "_____ should you try to fix this alone.",
+          "options": ["On no account", "Not account", "No account", "In no account"],
+          "answer": 0,
+          "explanation": "'On no account' + inversion = en aucun cas. Expression formelle avec inversion obligatoire du sujet et de l'auxiliaire."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "It is essential that he _____ present at the meeting.",
+          "options": ["is", "be", "will be", "was"],
+          "answer": 1,
+          "explanation": "Subjonctif mandatif après 'essential that' : base verbale sans conjugaison. 'It is essential that he be' (anglais formel)."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "_____ had the meeting started than the CEO walked in.",
+          "options": ["No sooner", "Hardly", "Scarcely", "Barely"],
+          "answer": 0,
+          "explanation": "'No sooner... than'. 'Hardly/Scarcely/Barely' sont suivis de 'when', pas de 'than'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "She spoke _____ convincingly that everyone believed her.",
+          "options": ["such", "so", "too", "very"],
+          "answer": 1,
+          "explanation": "'So + adverbe + that' = tellement... que. 'Such' précède un nom : 'such a convincing speech that...'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "Not until the deadline passed _____ realize his mistake.",
+          "options": ["he did", "did he", "he has", "has he"],
+          "answer": 1,
+          "explanation": "'Not until...' en début de phrase → inversion obligatoire : 'did he realize'. Structure emphatique formelle."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "He behaves as though nothing _____.",
+          "options": ["happened", "had happened", "has happened", "happens"],
+          "answer": 1,
+          "explanation": "'As though + past perfect' pour une situation irréelle dans le passé. Plus formel que 'as if'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "_____ interesting the book is, I can't finish it by tomorrow.",
+          "options": ["However", "Whatever", "Whoever", "Although"],
+          "answer": 0,
+          "explanation": "'However + adjectif' = aussi... que ce soit. 'However interesting' = aussi intéressant soit-il."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "The report needs _____.",
+          "options": ["to rewrite", "rewriting", "to be rewriting", "rewritten"],
+          "answer": 1,
+          "explanation": "'Need + -ing' a un sens passif : 'needs rewriting' = a besoin d'être réécrit. Équivalent de 'needs to be rewritten'."
+        },
+        {
+          "type": "fill-in",
+          "category": "grammar",
+          "sentence": "So _____ was the damage that the building had to be demolished.",
+          "options": ["big", "extensive", "large", "wide"],
+          "answer": 1,
+          "explanation": "'So + adjective + inversion' pour emphase. 'Extensive damage' = dégâts importants. Collocation naturelle."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The two companies decided to _____ forces to enter the Asian market.",
+          "options": ["combine", "join", "link", "merge"],
+          "answer": 1,
+          "explanation": "'Join forces' = unir ses forces, s'allier. Expression idiomatique. 'Merge' = fusionner (devenir une seule entité)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The new policy has had a significant _____ on employee morale.",
+          "options": ["affect", "effect", "impact", "influence"],
+          "answer": 2,
+          "explanation": "'Have an impact on' = avoir un impact sur. 'Affect' est un verbe, 'effect' est un nom. 'Impact' est le plus naturel avec 'have a... on'."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "They need to _____ the gap between theory and practice.",
+          "options": ["close", "bridge", "fill", "shut"],
+          "answer": 1,
+          "explanation": "'Bridge the gap' = combler l'écart. Expression idiomatique très courante."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "His behavior at the meeting was completely _____.",
+          "options": ["unacceptable", "inacceptable", "disacceptable", "nonacceptable"],
+          "answer": 0,
+          "explanation": "'Unacceptable' est le seul préfixe correct. Les autres formes n'existent pas en anglais."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We should _____ the pros and cons before making a decision.",
+          "options": ["balance", "weigh", "measure", "count"],
+          "answer": 1,
+          "explanation": "'Weigh the pros and cons' = peser le pour et le contre. Expression idiomatique standard."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The company is going through a major _____.",
+          "options": ["overturn", "turnover", "overhaul", "overthrow"],
+          "answer": 2,
+          "explanation": "'Overhaul' = refonte, révision en profondeur. 'Turnover' = chiffre d'affaires. 'Overthrow' = renverser (un gouvernement)."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She has a _____ knowledge of the industry.",
+          "options": ["thorough", "through", "throughout", "though"],
+          "answer": 0,
+          "explanation": "'Thorough' = approfondi, minutieux. 'Through' = à travers. 'Throughout' = partout dans. 'Though' = cependant."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The report highlighted several _____ in the current process.",
+          "options": ["defaults", "defects", "shortcomings", "failures"],
+          "answer": 2,
+          "explanation": "'Shortcomings' = lacunes, insuffisances. 'Defects' = défauts techniques. 'Defaults' = paramètres par défaut."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "It's essential to maintain a good _____ with your colleagues.",
+          "options": ["relation", "relationship", "rapport", "connection"],
+          "answer": 1,
+          "explanation": "'Relationship' = relation (entre personnes). 'Relation' est plus formel. 'Rapport' existe mais est moins courant."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The board voted to _____ the proposal unanimously.",
+          "options": ["approve", "prove", "improve", "apprehend"],
+          "answer": 0,
+          "explanation": "'Approve a proposal' = approuver une proposition. 'Prove' = prouver. 'Improve' = améliorer."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The team showed great _____ in completing the project early.",
+          "options": ["commitment", "committee", "commission", "compromise"],
+          "answer": 0,
+          "explanation": "'Commitment' = engagement, implication. 'Committee' = comité. 'Commission' = commission. Faux amis fréquents."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We need a more _____ approach to this problem.",
+          "options": ["comprehensive", "comprehensible", "apprehensive", "extensive"],
+          "answer": 0,
+          "explanation": "'Comprehensive' = global, complet. 'Comprehensible' = compréhensible. 'Apprehensive' = anxieux. Faux amis."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The _____ between the two proposals is quite significant.",
+          "options": ["difference", "discrepancy", "disagreement", "distinction"],
+          "answer": 1,
+          "explanation": "'Discrepancy' = écart, divergence (souvent entre chiffres ou versions). Plus précis que 'difference' dans ce contexte formel."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "She managed to _____ a good work-life balance.",
+          "options": ["achieve", "obtain", "reach", "strike"],
+          "answer": 3,
+          "explanation": "'Strike a balance' = trouver un équilibre. Expression idiomatique. 'Achieve a balance' est aussi acceptable."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The new regulations will come into _____ next January.",
+          "options": ["action", "effect", "force", "power"],
+          "answer": 2,
+          "explanation": "'Come into force' = entrer en vigueur (lois, règlements). 'Come into effect' est aussi correct."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "He has a _____ for detail that makes him perfect for the job.",
+          "options": ["eye", "look", "view", "sight"],
+          "answer": 0,
+          "explanation": "'An eye for detail' = un sens du détail. Expression idiomatique."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The company is at the _____ of innovation in its field.",
+          "options": ["front", "edge", "forefront", "border"],
+          "answer": 2,
+          "explanation": "'At the forefront of' = à la pointe de, en première ligne de. 'Cutting edge' est aussi courant."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "We must take _____ action to prevent further damage.",
+          "options": ["quick", "swift", "fast", "rapid"],
+          "answer": 1,
+          "explanation": "'Swift action' = action rapide. Collocation formelle. 'Quick' et 'fast' sont plus informels."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "The results were _____ our expectations.",
+          "options": ["over", "above", "beyond", "past"],
+          "answer": 2,
+          "explanation": "'Beyond expectations' = au-delà des attentes. Expression standard pour dire que les résultats ont dépassé les prévisions."
+        },
+        {
+          "type": "fill-in",
+          "category": "vocabulary",
+          "sentence": "There's been a sharp _____ in demand for electric vehicles.",
+          "options": ["raise", "rise", "arise", "rising"],
+          "answer": 1,
+          "explanation": "'A rise in' = une hausse de. 'Rise' = nom (hausse). 'Raise' = verbe transitif (augmenter qqch). 'Arise' = surgir."
+        }
+      ]
+    }
+  ]
+}

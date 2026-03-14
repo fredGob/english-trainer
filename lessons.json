@@ -1,0 +1,637 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "lessons": [
+        {
+          "title": "Simple Past vs Present Perfect",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "Le **simple past** s'utilise pour une action terminée à un moment précis du passé.\nLe **present perfect** s'utilise pour une action passée qui a un lien avec le présent (résultat actuel, expérience, action non terminée).\n\nIndices pour le **simple past** : yesterday, last week, in 2010, ago...\nIndices pour le **present perfect** : already, yet, ever, never, since, for, just, recently..."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "I **went** to London last summer.", "fr": "Je suis allé à Londres l'été dernier. (moment précis → simple past)" },
+                { "en": "I **have been** to London three times.", "fr": "Je suis allé à Londres trois fois. (expérience de vie → present perfect)" },
+                { "en": "She **lost** her keys yesterday.", "fr": "Elle a perdu ses clés hier. (moment précis → simple past)" },
+                { "en": "She **has lost** her keys. She can't get in.", "fr": "Elle a perdu ses clés. Elle ne peut pas entrer. (résultat présent → present perfect)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "I _____ to Japan twice in my life.",
+              "options": ["went", "have been"],
+              "answer": 1,
+              "explanation": "'In my life' = expérience de vie, période non terminée → present perfect : 'have been'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "They _____ the project last Friday.",
+              "options": ["have finished", "finished"],
+              "answer": 1,
+              "explanation": "'Last Friday' = moment précis dans le passé → simple past : 'finished'."
+            }
+          ]
+        },
+        {
+          "title": "For vs Since",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "**For** est suivi d'une **durée** (combien de temps).\n**Since** est suivi d'un **point de départ** (depuis quand).\n\nAstuce : si vous pouvez répondre à « combien de temps ? » → **for**. Si vous pouvez répondre à « depuis quand ? » → **since**."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "I have lived here **for** ten years.", "fr": "J'habite ici depuis dix ans. (durée → for)" },
+                { "en": "I have lived here **since** 2015.", "fr": "J'habite ici depuis 2015. (point de départ → since)" },
+                { "en": "She has been waiting **for** two hours.", "fr": "Elle attend depuis deux heures. (durée → for)" },
+                { "en": "She has been waiting **since** 3 o'clock.", "fr": "Elle attend depuis 15h. (point de départ → since)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "We have known each other _____ childhood.",
+              "options": ["for", "since"],
+              "answer": 1,
+              "explanation": "'Childhood' est un point de départ dans le temps → 'since'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "He has been studying English _____ three years.",
+              "options": ["for", "since"],
+              "answer": 0,
+              "explanation": "'Three years' est une durée → 'for'."
+            }
+          ]
+        },
+        {
+          "title": "Comparatifs & Superlatifs",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "**Adjectifs courts** (1 syllabe, ou 2 syllabes en -y) :\n- Comparatif : adjectif + **-er** (+ than)\n- Superlatif : **the** + adjectif + **-est**\n\n**Adjectifs longs** (2+ syllabes) :\n- Comparatif : **more** + adjectif (+ than)\n- Superlatif : **the most** + adjectif\n\n**Irréguliers** : good → better → the best / bad → worse → the worst / far → further → the furthest"
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "She is **taller** than her brother.", "fr": "Elle est plus grande que son frère. (court → -er)" },
+                { "en": "This is **the tallest** building in the city.", "fr": "C'est le bâtiment le plus haut de la ville. (court → the -est)" },
+                { "en": "This book is **more interesting** than that one.", "fr": "Ce livre est plus intéressant que celui-là. (long → more)" },
+                { "en": "It's **the best** film I've ever seen.", "fr": "C'est le meilleur film que j'aie jamais vu. (irrégulier)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "This exercise is _____ than the previous one.",
+              "options": ["more easy", "easier"],
+              "answer": 1,
+              "explanation": "'Easy' se termine en -y (2 syllabes) → comparatif en -ier : 'easier'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "She is the _____ student in the class.",
+              "options": ["most intelligent", "intelligentest"],
+              "answer": 0,
+              "explanation": "'Intelligent' est un adjectif long (4 syllabes) → superlatif avec 'the most'."
+            }
+          ]
+        },
+        {
+          "title": "Make vs Do",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "**Make** = créer, fabriquer, produire un résultat.\n**Do** = effectuer une activité, une tâche.\n\nCollocations courantes avec **make** : make a decision, make a mistake, make money, make a phone call, make an effort, make progress, make a suggestion, make an appointment.\n\nCollocations courantes avec **do** : do homework, do the dishes, do exercise, do business, do a favour, do research, do your best, do the shopping."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "She **made** a mistake in her report.", "fr": "Elle a fait une erreur dans son rapport. (résultat → make)" },
+                { "en": "I need to **do** my homework.", "fr": "Je dois faire mes devoirs. (tâche → do)" },
+                { "en": "Can you **make** an appointment for me?", "fr": "Peux-tu prendre rendez-vous pour moi ? (résultat → make)" },
+                { "en": "He **does** exercise every morning.", "fr": "Il fait de l'exercice chaque matin. (activité → do)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "I need to _____ a decision quickly.",
+              "options": ["do", "make"],
+              "answer": 1,
+              "explanation": "'Make a decision' est une collocation fixe. On crée un résultat → 'make'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "Could you _____ me a favour?",
+              "options": ["do", "make"],
+              "answer": 0,
+              "explanation": "'Do a favour' = rendre un service. C'est une collocation fixe avec 'do'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lessons": [
+        {
+          "title": "Despite / Although / However",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "Ces trois mots expriment une **opposition/concession**, mais leur grammaire est différente :\n\n**Despite** + nom / gérondif (-ing) : malgré\n**Although** + sujet + verbe (proposition complète) : bien que\n**However** + virgule (début de phrase) : cependant, toutefois\n\nAttention : on ne dit jamais « despite of » ! On dit « in spite of » ou « despite »."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "**Despite** the rain, we went out.", "fr": "Malgré la pluie, nous sommes sortis. (despite + nom)" },
+                { "en": "**Although** it was raining, we went out.", "fr": "Bien qu'il pleuvait, nous sommes sortis. (although + proposition)" },
+                { "en": "It was raining. **However**, we went out.", "fr": "Il pleuvait. Cependant, nous sommes sortis. (however en début de phrase)" },
+                { "en": "**Despite** being tired, she finished the report.", "fr": "Malgré sa fatigue, elle a terminé le rapport. (despite + -ing)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "_____ the bad weather, the event was a success.",
+              "options": ["Although", "Despite"],
+              "answer": 1,
+              "explanation": "'The bad weather' est un nom → on utilise 'Despite'. 'Although' nécessiterait une proposition : 'Although the weather was bad'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "_____ she was exhausted, she kept working.",
+              "options": ["Despite", "Although"],
+              "answer": 1,
+              "explanation": "'She was exhausted' est une proposition complète (sujet + verbe) → 'Although'."
+            }
+          ]
+        },
+        {
+          "title": "Prépositions fixes (depend on, good at...)",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "En anglais, certains verbes et adjectifs sont toujours suivis de la **même préposition**. Il n'y a pas de règle : il faut les apprendre par cœur.\n\n**Verbes** : depend **on**, insist **on**, apologize **for**, succeed **in**, suffer **from**, look forward **to**\n\n**Adjectifs** : good **at**, interested **in**, afraid **of**, responsible **for**, used **to**, keen **on**"
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "She is very good **at** maths.", "fr": "Elle est très bonne en maths. (good at)" },
+                { "en": "He depends **on** his parents.", "fr": "Il dépend de ses parents. (depend on)" },
+                { "en": "I'm looking forward **to** the holiday.", "fr": "J'ai hâte d'être en vacances. (look forward to)" },
+                { "en": "She apologized **for** being late.", "fr": "Elle s'est excusée d'être en retard. (apologize for)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "He is really interested _____ learning Japanese.",
+              "options": ["about", "in"],
+              "answer": 1,
+              "explanation": "'Interested in' est la préposition fixe. On dit toujours 'interested in + nom/-ing'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "She succeeded _____ passing the exam.",
+              "options": ["to", "in"],
+              "answer": 1,
+              "explanation": "'Succeed in + -ing' = réussir à. Préposition fixe avec le verbe 'succeed'."
+            }
+          ]
+        },
+        {
+          "title": "Tell vs Say",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "**Tell** est toujours suivi d'un **complément d'objet indirect** (une personne) :\n→ tell **someone** something\n\n**Say** n'est **pas** suivi directement d'une personne :\n→ say something (**to** someone)\n\nExceptions courantes : tell the truth, tell a lie, tell a story, tell the time, tell the difference."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "He **told** me that he would be late.", "fr": "Il m'a dit qu'il serait en retard. (tell + personne)" },
+                { "en": "He **said** that he would be late.", "fr": "Il a dit qu'il serait en retard. (say + pas de personne directe)" },
+                { "en": "She **told** us a funny story.", "fr": "Elle nous a raconté une histoire drôle. (tell + personne)" },
+                { "en": "She **said** something interesting.", "fr": "Elle a dit quelque chose d'intéressant. (say + chose)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "Can you _____ me where the station is?",
+              "options": ["say", "tell"],
+              "answer": 1,
+              "explanation": "'Me' est un complément d'objet indirect → on utilise 'tell'. Tell me = dis-moi."
+            },
+            {
+              "type": "exercise",
+              "sentence": "What did she _____ about the meeting?",
+              "options": ["say", "tell"],
+              "answer": 0,
+              "explanation": "Pas de personne après le verbe → 'say'. 'What did she say?' est correct."
+            }
+          ]
+        },
+        {
+          "title": "By vs Until",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "**By** = **au plus tard à** (date limite, deadline). L'action doit être terminée avant ce moment.\n\n**Until** (ou **till**) = **jusqu'à**. L'action continue pendant toute la durée, jusqu'à ce moment.\n\nAstuce : By = deadline (l'action est ponctuelle). Until = durée (l'action continue)."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "The report must be ready **by** Friday.", "fr": "Le rapport doit être prêt d'ici vendredi. (deadline → by)" },
+                { "en": "I'll wait **until** 6 o'clock.", "fr": "J'attendrai jusqu'à 18h. (durée continue → until)" },
+                { "en": "We need to finish **by** 5 pm.", "fr": "Nous devons finir avant 17h. (deadline → by)" },
+                { "en": "The shop is open **until** 9 pm.", "fr": "Le magasin est ouvert jusqu'à 21h. (durée → until)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "You must submit the form _____ March 31st.",
+              "options": ["until", "by"],
+              "answer": 1,
+              "explanation": "C'est une date limite (deadline) → 'by'. Le formulaire doit être soumis avant le 31 mars."
+            },
+            {
+              "type": "exercise",
+              "sentence": "I'll be at the office _____ 7 pm tonight.",
+              "options": ["by", "until"],
+              "answer": 1,
+              "explanation": "L'action continue (être au bureau) pendant toute la durée → 'until'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lessons": [
+        {
+          "title": "Modaux : must / should / can't + have",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "Les modaux + **have + participe passé** permettent de parler du passé avec une nuance :\n\n**Must have** + PP = déduction forte (quasi-certitude)\n→ « Elle a dû partir » (j'en suis presque sûr)\n\n**Should have** + PP = reproche, regret\n→ « Tu aurais dû me le dire »\n\n**Can't have** + PP = impossibilité logique\n→ « Il n'a pas pu faire ça » (c'est impossible)"
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "She **must have** left early. Her car isn't here.", "fr": "Elle a dû partir tôt. Sa voiture n'est pas là. (déduction forte)" },
+                { "en": "You **should have** told me sooner!", "fr": "Tu aurais dû me le dire plus tôt ! (reproche)" },
+                { "en": "He **can't have** stolen the money. He was with me.", "fr": "Il n'a pas pu voler l'argent. Il était avec moi. (impossibilité)" },
+                { "en": "They **must have** been very tired after the trip.", "fr": "Ils devaient être très fatigués après le voyage. (déduction)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "She _____ forgotten about the meeting. She's usually very reliable.",
+              "options": ["must have", "can't have"],
+              "answer": 1,
+              "explanation": "Elle est habituellement fiable, donc c'est improbable qu'elle ait oublié → 'can't have' (impossibilité logique)."
+            },
+            {
+              "type": "exercise",
+              "sentence": "You _____ studied harder. You failed the exam.",
+              "options": ["must have", "should have"],
+              "answer": 1,
+              "explanation": "C'est un reproche sur le passé : tu aurais dû étudier plus → 'should have'."
+            }
+          ]
+        },
+        {
+          "title": "La voix passive",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "La voix passive met l'accent sur l'**objet** de l'action plutôt que sur le sujet.\n\nFormation : **sujet + be (conjugué) + participe passé** (+ by + agent)\n\n- Présent : The report **is written** every week.\n- Passé : The house **was built** in 1920.\n- Futur : The project **will be completed** next month.\n- Present perfect : The email **has been sent**.\n- Avec modal : The work **must be finished** by Friday."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "English **is spoken** in many countries.", "fr": "L'anglais est parlé dans de nombreux pays. (présent passif)" },
+                { "en": "The window **was broken** by the children.", "fr": "La fenêtre a été cassée par les enfants. (passé passif)" },
+                { "en": "The new office **will be opened** next month.", "fr": "Le nouveau bureau sera ouvert le mois prochain. (futur passif)" },
+                { "en": "The report **must be finished** by Friday.", "fr": "Le rapport doit être terminé d'ici vendredi. (modal + passif)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "This song _____ by millions of people every day.",
+              "options": ["listens", "is listened to"],
+              "answer": 1,
+              "explanation": "Le sujet 'This song' subit l'action → voix passive : 'is listened to'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "The letter _____ yesterday morning.",
+              "options": ["sent", "was sent"],
+              "answer": 1,
+              "explanation": "'The letter' subit l'action (elle a été envoyée) → passif au passé : 'was sent'."
+            }
+          ]
+        },
+        {
+          "title": "Questions indirectes",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "Dans une **question indirecte**, l'ordre est **sujet + verbe** (comme une phrase affirmative), **pas d'inversion** :\n\nQuestion directe : Where **is** the station?\nQuestion indirecte : Could you tell me where the station **is**?\n\nQuestion directe : What time **does** the meeting **start**?\nQuestion indirecte : Do you know what time the meeting **starts**?\n\nIntroductions courantes : Could you tell me..., Do you know..., I wonder..., I'd like to know..."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "Could you tell me where the station **is**?", "fr": "Pourriez-vous me dire où est la gare ? (pas d'inversion)" },
+                { "en": "Do you know what time the shop **closes**?", "fr": "Savez-vous à quelle heure le magasin ferme ? (pas de 'does')" },
+                { "en": "I wonder if she **will** come.", "fr": "Je me demande si elle viendra. (if + ordre affirmatif)" },
+                { "en": "I'd like to know how much this **costs**.", "fr": "J'aimerais savoir combien ça coûte. (pas de 'does')" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "Could you tell me where the nearest bank _____?",
+              "options": ["is", "is it"],
+              "answer": 0,
+              "explanation": "Question indirecte → ordre affirmatif (sujet + verbe) : 'where the bank is', pas 'where is it'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "Do you know what time the train _____?",
+              "options": ["does leave", "leaves"],
+              "answer": 1,
+              "explanation": "Question indirecte → pas d'auxiliaire 'does' : 'what time the train leaves'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lessons": [
+        {
+          "title": "Verbe + -ing vs to",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "Certains verbes sont toujours suivis du **gérondif (-ing)** :\n→ enjoy, avoid, mind, suggest, finish, deny, keep, can't help\n\nD'autres sont toujours suivis de **to + infinitif** :\n→ want, decide, promise, hope, agree, expect, refuse, learn\n\nQuelques verbes acceptent les deux mais **changent de sens** :\n→ stop + -ing = arrêter de faire / stop + to = s'arrêter pour faire\n→ remember + -ing = se souvenir d'avoir fait / remember + to = penser à faire\n→ regret + -ing = regretter d'avoir fait / regret + to = regretter de devoir"
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "She **enjoys reading** before bed.", "fr": "Elle aime lire avant de dormir. (enjoy + -ing)" },
+                { "en": "He **decided to leave** early.", "fr": "Il a décidé de partir tôt. (decide + to)" },
+                { "en": "I **stopped smoking** last year.", "fr": "J'ai arrêté de fumer l'an dernier. (arrêter de → stop + -ing)" },
+                { "en": "I **stopped to smoke** a cigarette.", "fr": "Je me suis arrêté pour fumer une cigarette. (s'arrêter pour → stop + to)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "She avoids _____ in crowded places.",
+              "options": ["to eat", "eating"],
+              "answer": 1,
+              "explanation": "'Avoid' est toujours suivi du gérondif (-ing) : 'avoids eating'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "He promised _____ me back.",
+              "options": ["calling", "to call"],
+              "answer": 1,
+              "explanation": "'Promise' est toujours suivi de 'to + infinitif' : 'promised to call'."
+            }
+          ]
+        },
+        {
+          "title": "Conditionnel 2 (If I were...)",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "Le **conditionnel 2** (ou « second conditional ») exprime une situation **irréelle ou hypothétique au présent**.\n\nStructure : **If + past simple, would + base verbale**\n\nParticularité : avec **be**, on utilise **were** pour toutes les personnes (pas 'was') dans un style correct :\n→ If I **were** you... / If she **were** here...\n\nÀ ne pas confondre avec le conditionnel 1 (if + present, will + base) qui est une situation **probable**."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "If I **were** you, I **would** accept the offer.", "fr": "Si j'étais toi, j'accepterais l'offre. (conseil irréel)" },
+                { "en": "If I **had** more time, I **would travel** more.", "fr": "Si j'avais plus de temps, je voyagerais plus. (souhait irréel)" },
+                { "en": "If she **spoke** French, she **would get** the job.", "fr": "Si elle parlait français, elle obtiendrait le poste. (hypothèse)" },
+                { "en": "What **would** you do if you **won** the lottery?", "fr": "Que ferais-tu si tu gagnais au loto ? (situation imaginaire)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "If I _____ rich, I would buy a house by the sea.",
+              "options": ["am", "were"],
+              "answer": 1,
+              "explanation": "Conditionnel 2 (situation irréelle) → 'If I were'. On utilise 'were' (subjonctif), pas 'am'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "If she studied harder, she _____ better grades.",
+              "options": ["will get", "would get"],
+              "answer": 1,
+              "explanation": "Conditionnel 2 → 'would + base verbale' dans la proposition principale."
+            }
+          ]
+        },
+        {
+          "title": "Future Perfect",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "Le **future perfect** exprime une action qui **sera terminée avant** un moment futur.\n\nStructure : **will have + participe passé**\n\nMots-clés : **by** (the time / next week / tomorrow / 2030), **before**\n\nÀ ne pas confondre avec le futur simple (will + base) qui exprime simplement une action future."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "By next Friday, I **will have finished** the report.", "fr": "D'ici vendredi prochain, j'aurai terminé le rapport." },
+                { "en": "By the time you arrive, we **will have eaten** dinner.", "fr": "Quand tu arriveras, nous aurons déjà dîné." },
+                { "en": "She **will have worked** here for 10 years next month.", "fr": "Elle aura travaillé ici pendant 10 ans le mois prochain." },
+                { "en": "By 2030, they **will have built** the new airport.", "fr": "D'ici 2030, ils auront construit le nouvel aéroport." }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "By the time we get there, the film _____.",
+              "options": ["will start", "will have started"],
+              "answer": 1,
+              "explanation": "'By the time' indique que l'action sera terminée avant notre arrivée → future perfect : 'will have started'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "By next year, she _____ her degree.",
+              "options": ["will complete", "will have completed"],
+              "answer": 1,
+              "explanation": "'By next year' = d'ici l'année prochaine → l'action sera terminée avant ce moment → future perfect."
+            }
+          ]
+        },
+        {
+          "title": "Phrasal Verbs courants",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "Un **phrasal verb** est un verbe + une particule (préposition/adverbe) qui change le sens du verbe.\n\nIls sont très courants en anglais courant et professionnel :\n\n- **look into** = examiner, enquêter\n- **come up with** = trouver (une idée)\n- **put off** = reporter\n- **turn down** = refuser\n- **carry out** = réaliser, exécuter\n- **figure out** = comprendre\n- **run out of** = manquer de\n- **bring up** = soulever (un sujet)"
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "I'll **look into** the problem.", "fr": "Je vais examiner le problème." },
+                { "en": "We need to **come up with** a solution.", "fr": "Nous devons trouver une solution." },
+                { "en": "They **put off** the meeting.", "fr": "Ils ont reporté la réunion." },
+                { "en": "She **turned down** the offer.", "fr": "Elle a refusé l'offre." }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "We need to figure _____ how to solve this.",
+              "options": ["up", "out"],
+              "answer": 1,
+              "explanation": "'Figure out' = comprendre, trouver la solution. La particule correcte est 'out'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "The meeting was called _____ due to the storm.",
+              "options": ["off", "out"],
+              "answer": 0,
+              "explanation": "'Call off' = annuler. 'Call out' = interpeller. Ici on annule la réunion → 'off'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "lessons": [
+        {
+          "title": "Inversions (Hardly, No sooner...)",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "En anglais formel/littéraire, certaines expressions négatives ou restrictives en début de phrase entraînent une **inversion sujet-auxiliaire** :\n\n- **Hardly / Scarcely / Barely** + had + sujet + PP + **when**...\n- **No sooner** + had + sujet + PP + **than**...\n- **Not only** + auxiliaire + sujet...\n- **Little** + did + sujet + verbe...\n- **Not until** + ... + auxiliaire + sujet + verbe...\n- **On no account** + auxiliaire + sujet + verbe..."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "**Hardly had** he arrived **when** the phone rang.", "fr": "À peine était-il arrivé que le téléphone sonna." },
+                { "en": "**No sooner had** we left **than** it started raining.", "fr": "À peine étions-nous partis qu'il s'est mis à pleuvoir." },
+                { "en": "**Not only was** he late, but he also forgot the documents.", "fr": "Non seulement il était en retard, mais il avait aussi oublié les documents." },
+                { "en": "**Little did** she know what was about to happen.", "fr": "Elle ne savait absolument pas ce qui allait se passer." }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "Hardly _____ the door when the alarm went off.",
+              "options": ["I had opened", "had I opened"],
+              "answer": 1,
+              "explanation": "'Hardly' en début de phrase → inversion obligatoire : 'had I opened', pas 'I had opened'."
+            },
+            {
+              "type": "exercise",
+              "sentence": "No sooner had she finished _____ the boss asked for more.",
+              "options": ["when", "than"],
+              "answer": 1,
+              "explanation": "'No sooner... than' est la paire fixe. 'Hardly... when' est l'autre paire. Ne pas mélanger."
+            }
+          ]
+        },
+        {
+          "title": "Subjonctif (It's high time, I wish)",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "L'anglais utilise le **subjonctif** (souvent sous forme de past simple) dans certaines structures :\n\n**I wish + past simple** = regret sur le présent\n→ I wish I **had** more time. (mais je n'en ai pas)\n\n**I wish + past perfect** = regret sur le passé\n→ I wish I **had studied** harder.\n\n**It's (high) time + past simple** = il est (grand) temps de\n→ It's time we **left**.\n\n**If only + past simple/perfect** = si seulement\n→ If only I **knew** the answer.\n\n**Subjonctif mandatif** (formel) : It's essential that he **be** present."
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "I **wish** I **spoke** better English.", "fr": "J'aimerais mieux parler anglais. (regret présent)" },
+                { "en": "I **wish** I **had accepted** the offer.", "fr": "J'aurais aimé avoir accepté l'offre. (regret passé)" },
+                { "en": "It's **high time** we **made** a decision.", "fr": "Il est grand temps de prendre une décision." },
+                { "en": "It is essential that he **be** present.", "fr": "Il est essentiel qu'il soit présent. (subjonctif mandatif)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "I wish I _____ a car. I have to take the bus every day.",
+              "options": ["have", "had"],
+              "answer": 1,
+              "explanation": "'I wish + past simple' pour un regret sur le présent. 'I wish I had a car' = j'aimerais avoir une voiture."
+            },
+            {
+              "type": "exercise",
+              "sentence": "It's high time you _____ looking for a new job.",
+              "options": ["start", "started"],
+              "answer": 1,
+              "explanation": "'It's high time + past simple' = il est grand temps que. Le passé a ici valeur de subjonctif."
+            }
+          ]
+        },
+        {
+          "title": "Relatives : which vs that",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "**That** s'utilise dans les propositions relatives **restrictives** (essentielles au sens) :\n→ The book **that** I bought is great. (quel livre ? celui que j'ai acheté)\n\n**Which** s'utilise dans les propositions relatives **non restrictives** (information supplémentaire, entre virgules) :\n→ The book, **which** I bought yesterday, is great. (info en plus)\n\nRègle simple :\n- **Virgules** → **which** (jamais that)\n- **Pas de virgules** → **that** ou **which** (les deux sont possibles, mais 'that' est préféré)"
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "The car **that** she drives is very old.", "fr": "La voiture qu'elle conduit est très vieille. (restrictive, essentielle)" },
+                { "en": "My car, **which** is very old, broke down again.", "fr": "Ma voiture, qui est très vieille, est encore tombée en panne. (non restrictive)" },
+                { "en": "The project **that** we started last year is complete.", "fr": "Le projet que nous avons commencé l'an dernier est terminé. (restrictive)" },
+                { "en": "The project, **which** was started last year, is complete.", "fr": "Le projet, qui a été commencé l'an dernier, est terminé. (non restrictive)" }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "The house, _____ was built in 1900, is now a museum.",
+              "options": ["that", "which"],
+              "answer": 1,
+              "explanation": "Virgules = relative non restrictive → 'which'. On n'utilise jamais 'that' entre virgules."
+            },
+            {
+              "type": "exercise",
+              "sentence": "Is this the book _____ you were talking about?",
+              "options": ["which", "that"],
+              "answer": 1,
+              "explanation": "Pas de virgules = relative restrictive → 'that' est préféré (mais 'which' est aussi acceptable)."
+            }
+          ]
+        },
+        {
+          "title": "Collocations avancées",
+          "sections": [
+            {
+              "type": "explanation",
+              "content": "Les **collocations** sont des combinaisons de mots qui vont naturellement ensemble. Les connaître donne un anglais plus naturel.\n\n**Avec des noms** : bridge the gap, strike a balance, meet a deadline, raise awareness, weigh the pros and cons\n\n**Avec des adjectifs** : deeply concerned, highly unlikely, bitterly disappointed, utterly ridiculous, widely known\n\n**Business** : come into force, beyond expectations, swift action, at the forefront of, eye for detail"
+            },
+            {
+              "type": "examples",
+              "items": [
+                { "en": "We need to **bridge the gap** between teams.", "fr": "Nous devons combler l'écart entre les équipes." },
+                { "en": "She managed to **strike a balance** between work and life.", "fr": "Elle a réussi à trouver un équilibre entre travail et vie." },
+                { "en": "I was **bitterly disappointed** by the results.", "fr": "J'ai été amèrement déçu par les résultats." },
+                { "en": "The company is **at the forefront** of innovation.", "fr": "L'entreprise est à la pointe de l'innovation." }
+              ]
+            },
+            {
+              "type": "exercise",
+              "sentence": "The results were _____ our expectations.",
+              "options": ["over", "beyond"],
+              "answer": 1,
+              "explanation": "'Beyond expectations' = au-delà des attentes. Collocation fixe en anglais formel."
+            },
+            {
+              "type": "exercise",
+              "sentence": "We should _____ the pros and cons before deciding.",
+              "options": ["balance", "weigh"],
+              "answer": 1,
+              "explanation": "'Weigh the pros and cons' = peser le pour et le contre. Collocation idiomatique."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,98 @@
-a
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Trainer — Grammaire & Vocabulaire</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+
+    <!-- Home Screen -->
+    <div id="home-screen" class="screen active">
+      <header>
+        <h1>English Trainer</h1>
+        <p>Grammaire & vocabulaire — du B1 au B2+</p>
+      </header>
+      <div id="level-list" class="level-list"></div>
+      <button id="reset-btn" class="reset-btn">Réinitialiser la progression</button>
+    </div>
+
+    <!-- Level Menu Screen -->
+    <div id="level-menu-screen" class="screen">
+      <button id="level-menu-back-btn" class="back-btn">← Retour</button>
+      <div class="level-menu-card">
+        <h2 id="level-menu-title"></h2>
+        <p class="level-menu-desc">Choisissez votre activité :</p>
+        <div class="level-menu-buttons">
+          <button id="lesson-btn" class="level-menu-btn lesson-btn">
+            <span class="level-menu-btn-icon">📖</span>
+            <span class="level-menu-btn-label">Cours</span>
+            <span class="level-menu-btn-sub">Mini-leçons interactives</span>
+          </button>
+          <button id="quiz-btn" class="level-menu-btn quiz-btn">
+            <span class="level-menu-btn-icon">✏️</span>
+            <span class="level-menu-btn-label">QCM</span>
+            <span class="level-menu-btn-sub">Valider le niveau</span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Lesson Screen -->
+    <div id="lesson-screen" class="screen">
+      <button id="lesson-back-btn" class="back-btn">← Retour</button>
+      <div class="lesson-header">
+        <span id="lesson-level-name"></span>
+        <span id="lesson-counter"></span>
+      </div>
+      <div class="lesson-card">
+        <h2 id="lesson-title" class="lesson-title"></h2>
+        <div id="lesson-sections"></div>
+      </div>
+      <div class="lesson-nav">
+        <button id="lesson-prev-btn" class="lesson-nav-btn">← Précédent</button>
+        <button id="lesson-next-btn" class="lesson-nav-btn primary">Suivant →</button>
+      </div>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-screen" class="screen">
+      <button id="back-btn" class="back-btn">← Retour</button>
+      <div class="quiz-header">
+        <div class="quiz-progress-bar">
+          <div id="quiz-progress-fill" class="quiz-progress-fill"></div>
+        </div>
+        <div class="quiz-info">
+          <span id="quiz-level-name"></span>
+          <span id="quiz-question-num"></span>
+        </div>
+      </div>
+      <div class="question-card">
+        <span id="quiz-category" class="quiz-category"></span>
+        <p id="question-sentence" class="question-sentence"></p>
+        <div id="options-container" class="options"></div>
+        <div id="feedback" class="feedback"></div>
+        <button id="next-btn" class="next-btn">Suivante →</button>
+      </div>
+    </div>
+
+    <!-- Results Screen -->
+    <div id="results-screen" class="screen">
+      <div class="results-card">
+        <h2 id="results-level-name"></h2>
+        <div id="score-display" class="score-display"></div>
+        <p id="score-message" class="score-message"></p>
+        <div id="results-buttons" class="results-buttons"></div>
+      </div>
+      <div id="errors-section" class="errors-section">
+        <h3>Récapitulatif des erreurs</h3>
+        <div id="errors-list"></div>
+      </div>
+    </div>
+
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
